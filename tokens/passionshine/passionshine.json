@@ -1,12 +1,12 @@
 {
-  "name": "",
-  "symbol": "",
-  "account": "",
+  "name": "PASSION",
+  "symbol": "PASSION",
+  "account": "passionshine",
   "precision": 4,
   "issuer": "",
   "logo": "https://raw.githubusercontent.com/TwerkEOS/eos-tokens/master/tokens/passionshine/passionshine.png",
-  "desc": "Every great dream begins with a dreamer. Always remember, you have within you the strength, the patience, and the passion to reach for the stars to change the world.",
-  "website": "",
+  "desc": "Every great dream begins with a dreamer. You have within you the strength, the patience, and the passion to reach for the stars to change the world.",
+  "website": "https://passionshine.imgbb.com/",
   "whitepaper": "",
   "links": {}
 },
