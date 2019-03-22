@@ -64,7 +64,6 @@ Please submit your token's JSON file follow template below. [EOS](./tokens/eosio
 <!-- token_list_start -->
 |   Logo    | Symbol      | Account Name |
 | ----------- |:------------:|:------------:|
-|  <img src="https://raw.githubusercontent.com/TwerkEOS/eos-tokens/master/tokens/passionshine/passionshine.png" width=30 />  | [PS](https://github.com/TwerkEOS/eos-tokens/blob/master/tokens/passionshine/PS.json) | 
 |  <img src="https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/twerkeoscoin/TWERK.png" width=30 />  | [TWERK](https://github.com/BlockABC/eos-tokens/blob/master/tokens/twerkeoscoin/TWERK.json) | [twerkeoscoin](https://eospark.com/contract/twerkeoscoin) |
 |  <img src="https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/21dice4token/TOD.png" width=30 />  | [TOD](https://github.com/BlockABC/eos-tokens/blob/master/tokens/21dice4token/TOD.json) | [21dice4token](https://eospark.com/contract/21dice4token) |
 |  <img src="https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/aeronaerozzz/ARN.png" width=30 />  | [ARN](https://github.com/BlockABC/eos-tokens/blob/master/tokens/aeronaerozzz/ARN.json) | [aeronaerozzz](https://eospark.com/contract/aeronaerozzz) |
